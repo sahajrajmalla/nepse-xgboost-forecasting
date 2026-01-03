@@ -1,0 +1,2 @@
+Log_Return_RMSE,Log_Return_MAE,Log_Return_R²,Log_Return_Directional Accuracy (%),Price_RMSE,Price_MAE,Price_R²,Price_Directional Accuracy (%)
+0.015109,0.010984,-0.0016,54.32,34.250816,24.87884,0.9938,48.27
